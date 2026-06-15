@@ -1,0 +1,184 @@
+{
+  "themes": {
+    "corporate": {
+      "name": "Corporate",
+      "description": "Trustworthy, professional, and authoritative. Sleek navy and slate tones with blue accents, ideal for business reviews and investor pitches.",
+      "isDarkMode": false,
+      "colors": {
+        "primary": "#0F172A",
+        "secondary": "#2563EB",
+        "accent": "#0EA5E9",
+        "background": "#F8FAFC",
+        "surface": "#FFFFFF",
+        "text": "#0F172A",
+        "mutedText": "#475569",
+        "cardBg": "#F1F5F9",
+        "borderColor": "#E2E8F0"
+      },
+      "typography": {
+        "headingFont": "Montserrat",
+        "headingFontUrl": "https://fonts.googleapis.com/css2?family=Montserrat:wght@400;600;700;800&display=swap",
+        "bodyFont": "Inter",
+        "bodyFontUrl": "https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600&display=swap",
+        "headingWeight": "700",
+        "bodyWeight": "400",
+        "accentFont": "Montserrat"
+      },
+      "spacing": {
+        "slidePadding": "48px 64px",
+        "itemGap": "20px",
+        "titleBottomMargin": "28px"
+      },
+      "backgroundImage": "/home/team/shared/design/backgrounds/corporate-bg.png",
+      "layoutSettings": {
+        "align": "left",
+        "textTransform": "none",
+        "borderRadius": "8px"
+      }
+    },
+    "creative": {
+      "name": "Creative",
+      "description": "Energetic, bold, and modern. Vibrant indigo and rose tones with dynamic shapes, ideal for agency decks, marketing campaigns, and design reviews.",
+      "isDarkMode": false,
+      "colors": {
+        "primary": "#4F46E5",
+        "secondary": "#F43F5E",
+        "accent": "#F59E0B",
+        "background": "#FFFBFB",
+        "surface": "#FFFFFF",
+        "text": "#1E1B4B",
+        "mutedText": "#6366F1",
+        "cardBg": "#FAF5FF",
+        "borderColor": "#F5E6FF"
+      },
+      "typography": {
+        "headingFont": "Syne",
+        "headingFontUrl": "https://fonts.googleapis.com/css2?family=Syne:wght@700;800&display=swap",
+        "bodyFont": "Plus Jakarta Sans",
+        "bodyFontUrl": "https://fonts.googleapis.com/css2?family=Plus+Jakarta+Sans:wght@400;500;600;700&display=swap",
+        "headingWeight": "800",
+        "bodyWeight": "400",
+        "accentFont": "Syne"
+      },
+      "spacing": {
+        "slidePadding": "54px 72px",
+        "itemGap": "24px",
+        "titleBottomMargin": "32px"
+      },
+      "backgroundImage": "/home/team/shared/design/backgrounds/creative-bg.png",
+      "layoutSettings": {
+        "align": "left",
+        "textTransform": "none",
+        "borderRadius": "16px"
+      }
+    },
+    "academic": {
+      "name": "Academic",
+      "description": "Elegant, traditional, and intellectual. Warm ivory background, deep forest spruce green elements, and copper/gold accents, designed for lectures, thesis presentations, and dense reports.",
+      "isDarkMode": false,
+      "colors": {
+        "primary": "#1B3B2B",
+        "secondary": "#9E7B44",
+        "accent": "#B87333",
+        "background": "#FDFBF7",
+        "surface": "#FCFAF5",
+        "text": "#1B3B2B",
+        "mutedText": "#5F6F65",
+        "cardBg": "#F4F1EA",
+        "borderColor": "#E8E3D7"
+      },
+      "typography": {
+        "headingFont": "Playfair Display",
+        "headingFontUrl": "https://fonts.googleapis.com/css2?family=Playfair+Display:ital,wght@0,600;0,700;1,400&display=swap",
+        "bodyFont": "Lora",
+        "bodyFontUrl": "https://fonts.googleapis.com/css2?family=Lora:ital,wght@0,400;0,500;1,400&display=swap",
+        "headingWeight": "700",
+        "bodyWeight": "400",
+        "accentFont": "Playfair Display"
+      },
+      "spacing": {
+        "slidePadding": "60px 80px",
+        "itemGap": "18px",
+        "titleBottomMargin": "30px"
+      },
+      "backgroundImage": "/home/team/shared/design/backgrounds/academic-bg.png",
+      "layoutSettings": {
+        "align": "center",
+        "textTransform": "none",
+        "borderRadius": "4px"
+      }
+    },
+    "minimalist": {
+      "name": "Minimalist",
+      "description": "Uncluttered, spacious, and high contrast. Breathing space, charcoal typography, and ample white space prioritize clarity and clean communication.",
+      "isDarkMode": false,
+      "colors": {
+        "primary": "#18181B",
+        "secondary": "#09090B",
+        "accent": "#71717A",
+        "background": "#F9F9FB",
+        "surface": "#FFFFFF",
+        "text": "#09090B",
+        "mutedText": "#52525B",
+        "cardBg": "#F4F4F5",
+        "borderColor": "#E4E4E7"
+      },
+      "typography": {
+        "headingFont": "Inter",
+        "headingFontUrl": "https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&display=swap",
+        "bodyFont": "Inter",
+        "bodyFontUrl": "https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500&display=swap",
+        "headingWeight": "600",
+        "bodyWeight": "400",
+        "accentFont": "Inter"
+      },
+      "spacing": {
+        "slidePadding": "64px 96px",
+        "itemGap": "22px",
+        "titleBottomMargin": "36px"
+      },
+      "backgroundImage": "/home/team/shared/design/backgrounds/minimalist-bg.png",
+      "layoutSettings": {
+        "align": "left",
+        "textTransform": "none",
+        "borderRadius": "0px"
+      }
+    },
+    "tech": {
+      "name": "Tech",
+      "description": "Futuristic, sleek, and immersive. Deep charcoal and obsidian default dark-mode with brilliant electric cyan and violet neon accents, built for developers, AI pitches, and software architects.",
+      "isDarkMode": true,
+      "colors": {
+        "primary": "#06B6D4",
+        "secondary": "#8B5CF6",
+        "accent": "#14B8A6",
+        "background": "#030712",
+        "surface": "#111827",
+        "text": "#F9FAFB",
+        "mutedText": "#9CA3AF",
+        "cardBg": "#1F2937",
+        "borderColor": "#374151"
+      },
+      "typography": {
+        "headingFont": "Space Grotesk",
+        "headingFontUrl": "https://fonts.googleapis.com/css2?family=Space+Grotesk:wght@500;600;700&display=swap",
+        "bodyFont": "Plus Jakarta Sans",
+        "bodyFontUrl": "https://fonts.googleapis.com/css2?family=Plus+Jakarta+Sans:wght@400;500;600&display=swap",
+        "headingWeight": "700",
+        "bodyWeight": "400",
+        "accentFont": "Space Grotesk"
+      },
+      "spacing": {
+        "slidePadding": "48px 64px",
+        "itemGap": "20px",
+        "titleBottomMargin": "28px"
+      },
+      "backgroundImage": "/home/team/shared/design/backgrounds/tech-bg.png",
+      "layoutSettings": {
+        "align": "left",
+        "textTransform": "uppercase",
+        "borderRadius": "6px"
+      }
+    }
+  }
+}
