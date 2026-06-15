@@ -1,0 +1,10 @@
+fastapi
+uvicorn
+pydantic
+python-dotenv
+httpx
+python-pptx
+PyJWT
+passlib[bcrypt]
+python-multipart
+pydantic-settings
